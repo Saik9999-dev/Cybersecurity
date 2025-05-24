@@ -1,0 +1,11 @@
+# Risk Model: Public Azure Blob Container
+
+- **Asset**: Customer data stored in Azure Blob
+- **Threat**: Unauthorized external users accessing it
+- **Vulnerability**: Blob container set to public
+- **Impact**: Data leakage, compliance violation, loss of trust
+- **Likelihood**: High (bots scan for this)
+- **Risk Score**: High
+
+### Risk Statement:
+There is a risk that sensitive customer data could be accessed by unauthorized users due to a misconfigured public Azure Blob container, leading to regulatory fines and reputational damage.
