@@ -6,3 +6,8 @@
 See [risk-register.md](risk-register.md) for a summary of all modeled risks and mitigation plans.
 ## 🕵️ Threat Actor Mapping
 See [threat-actors-vs-cloud-risks.md](threat-actors-vs-cloud-risks.md) for a table that links real-world cloud misconfigurations to known threat actor types and tactics.
+## 🧠 Threat Intelligence
+
+Explore real-world threat actor profiles and tactics from MITRE ATT&CK and public CTI feeds.
+
+- [APT29 Threat Profile](threat-intelligence/apt29.md)
