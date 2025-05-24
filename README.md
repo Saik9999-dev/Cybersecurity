@@ -11,3 +11,5 @@ See [threat-actors-vs-cloud-risks.md](threat-actors-vs-cloud-risks.md) for a tab
 Explore real-world threat actor profiles and tactics from MITRE ATT&CK and public CTI feeds.
 
 - [APT29 Threat Profile](threat-intelligence/apt29.md)
+
+- [Log4Shell – CVE-2021-44228](cve-research/log4shell-cve.md): Critical RCE vulnerability in Log4j affecting cloud and enterprise systems globally.
