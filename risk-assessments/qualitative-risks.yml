@@ -1,0 +1,9 @@
+security_risks:
+  - name: "Public S3 Bucket"
+    likelihood: "High"
+    impact: "High"
+    risk_rating: "Critical"
+  - name: "Outdated SSL Certificate"
+    likelihood: "Medium"
+    impact: "High"
+    risk_rating: "High"
