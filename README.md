@@ -16,4 +16,4 @@ Explore real-world threat actor profiles and tactics from MITRE ATT&CK and publi
 
 ## 📋 Risk Assessment
 - [Risk Assessment – Open SSH Port on Azure VM](risk-assessments/open-ssh-risk.md)
-- [Qualitative VS Quantitative](qualitative-quantitative.md)
+- [Qualitative VS Quantitative](risk-assessments/qualitative-quantitative.md)
